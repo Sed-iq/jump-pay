@@ -1,0 +1,25 @@
+.grad {
+  background-image: radial-gradient(rgb(204, 204, 204), rgb(22, 54, 65));
+}
+.bg-t {
+  background-image: linear-gradient(
+    45deg,
+    rgb(12, 116, 116),
+    rgb(90, 113, 136),
+    rgb(90, 113, 136),
+    rgb(12, 116, 116)
+  );
+}
+.h-half {
+  height: 500px;
+}
+
+.sh {
+  box-shadow: 2px 2px 10px black;
+}
+.bg-jean {
+  background-color: #222939;
+}
+.small {
+  font-size: 0.5em;
+}
